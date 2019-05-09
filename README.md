@@ -19,6 +19,6 @@ This competition is open for 2 days . From 3rd May to 5th May.
 # Date 
 Data of analytics vidhya competition is only till the competition is ON once it finished you can no more access the data. For sortout this hurdle i upload the data in my G-Drive you can directly download dataset from their and work on the given competition.
 
-Train data: https://urlzs.com/Kmx6Q
+- Train data: https://urlzs.com/Kmx6Q
 
-Test data: https://urlzs.com/wZJU1
+- Test data: https://urlzs.com/wZJU1
