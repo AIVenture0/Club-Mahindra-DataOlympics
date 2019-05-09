@@ -13,7 +13,9 @@ Club Mahindra (Club M) makes significant revenue from Food and Beverages (F&B) s
 
 
 # Registration Fee
+
 Free
+
 This competition is open for 2 days . From 3rd May to 5th May.
 
 # Date 
