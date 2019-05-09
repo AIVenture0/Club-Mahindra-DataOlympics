@@ -10,3 +10,9 @@ Club Mahindra (Club M) makes significant revenue from Food and Beverages (F&B) s
 - Targeted campaigns to suit the member taste and preference of F&B
 - Providing members in the resort with a customized experience and offers
 - Help resort kitchen to plan the inventory and food quantity to be prepared in advance
+
+
+# Registration Fee
+Free
+This competition is open for 2 days . From 3rd May to 5th May.
+
